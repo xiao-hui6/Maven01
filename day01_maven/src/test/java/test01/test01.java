@@ -14,6 +14,5 @@ public class test01 {
     public void test(){
         User tom = new User("tom", 19);
         System.out.println(tom);
-        System.out.println("hello java");
     }
 }
