@@ -18,5 +18,6 @@ public class test01 {
         System.out.println("master hello");
         System.out.println("hot-fix 2");
         System.out.println("hhhhhh 1");
+        System.out.println("hhhhhh 2");
     }
 }
