@@ -15,5 +15,6 @@ public class test01 {
         User tom = new User("tom", 19);
         System.out.println(tom);
         System.out.println("hot-fix hello");
+        System.out.println("hot-fix 2");
     }
 }
